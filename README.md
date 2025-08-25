@@ -1,7 +1,7 @@
 # SalGet - Modern Food Delivery App
 
 <p align="center">
-  <img src="Asset/SalGet-Application.png" alt="SalGet Logo" width="300"/>
+<img src="Asset/SalGet-Application.png" alt="SalGet Logo" width="300"/>
 </p>
 
 ## Kesimpulan
